@@ -1,10 +1,10 @@
 # basic options
-title: My Tech Blog 
+title: My Tech Blog
 author: Masson Ma
 email: masson.contact@gmail.com
 description: A wonderful site
-github_username: masson2013 
+github_username: masson2013
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
